@@ -1,0 +1,811 @@
+.dashboard-user .cendraloka {
+  margin: 19px 16.5px 16px 0;
+  display: inline-block;
+  width: 101px;
+  overflow-wrap: break-word;
+  font-family: 'Rakkas';
+  font-weight: 400;
+  font-size: 22px;
+  color: #5654AD;
+}
+.dashboard-user .vector-7 {
+  margin: 1px 19px 0 0;
+  width: 28px;
+  height: 25px;
+}
+.dashboard-user .cari-produk {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  color: #737373;
+}
+.dashboard-user .frame-2 {
+  border-radius: 14px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  margin-right: 19px;
+  display: flex;
+  flex-direction: row;
+  padding: 18px 0 19px 24px;
+  width: 686px;
+  box-sizing: border-box;
+}
+.dashboard-user .kategori {
+  margin: 21px 41.1px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.dashboard-user .vector-11 {
+  margin: 21px 0 18px 0;
+  width: 27px;
+  height: 26px;
+}
+.dashboard-user .container-2 {
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.dashboard-user .vector {
+  margin-right: 17.8px;
+  width: 64.2px;
+  height: 65px;
+}
+.dashboard-user .user {
+  margin-bottom: 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.dashboard-user .user-profile {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.dashboard-user .container-4 {
+  margin: 5px 0 6px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .container-1 {
+  margin-top: 3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.dashboard-user .frame-1 {
+  border: 0.5px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30.5px 65.4px 34.5px 39.5px;
+  width: 1455px;
+  box-sizing: border-box;
+}
+.dashboard-user .cari-beragam-souvenir-lokal {
+  margin: 0 1px 54px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 55px;
+  color: #F9F3F3;
+}
+.dashboard-user .temukan-berbagai-macam-souvenir-unik-dan-autentik-yang-mencerminkan-kekayaan-budaya-dari-berbagai-belahan-dunia-semuanya-tersedia-di-satu-tempat {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto Flex';
+  font-weight: 500;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+.dashboard-user .frame-15 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/images/image_4.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 166px 0 197px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.dashboard-user .kategori-produk {
+  margin-right: 19.5px;
+  width: 240px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 33px;
+  color: #000000;
+}
+.dashboard-user .kerajinan-tangan {
+  margin: 9px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.dashboard-user .pernikahan {
+  margin: 9px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.dashboard-user .perhiasan {
+  margin: 9px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.dashboard-user .hadiah-dan-aksesori {
+  margin: 9px 0 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.dashboard-user .frame-16 {
+  margin: 0 53.3px 73px 63px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.dashboard-user .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .tas-souvenir-goodie-bag-totebag-tas-blacu-46-x-78 {
+  margin: 0 16px 15px 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-14000 {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-5 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  margin-right: 36px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .shopping-1 {
+  background: url('../assets/images/shopping_1.png') 50% / cover no-repeat;
+  margin-bottom: 73px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .rp-4000 {
+  margin: 0 21px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .souvenir-tempat-pensil-batik-khas-jogja-souvenir-pernikahan {
+  position: absolute;
+  left: 17px;
+  bottom: 56px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-6 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-right: 50px;
+  display: flex;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .shopping-2 {
+  background: url('../assets/images/shopping_2.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .mug-custom-kemas-pouch-blacu-souvenir-hadiah {
+  margin: 0 16px 15px 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-32000 {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-7 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .shopping-3 {
+  background: url('../assets/images/shopping_3.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -42px;
+  top: 0px;
+  width: 373.5px;
+  height: 300px;
+}
+.dashboard-user .souvenir-pernikahan-dompet-koinpouch {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-2000 {
+  margin: 0 4px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .frame-8 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  padding: 313px 16px 40px 16px;
+  width: 300px;
+  box-sizing: border-box;
+}
+.dashboard-user .frame-24 {
+  margin: 0 52px 71px 52px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .image-5 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .box-dus-kemasan-packaging-souvenir {
+  margin: 0 13px 15px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-20001 {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-18 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  margin-right: 36px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .souvenir-mangkok-set-keramik-handpainted {
+  margin: 0 19.7px 15px 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-59000 {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-19 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .image-7 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 300px;
+  height: 300px;
+}
+.dashboard-user .souvenir-mangkok-ayam-keramik-mini-kemas-box {
+  margin: 0 16px 15px 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-6000 {
+  margin: 0 20px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .frame-20 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.dashboard-user .image-9 {
+  background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+  right: 0px;
+  height: 300px;
+}
+.dashboard-user .box-mini-flower-box-accesories-box {
+  margin-bottom: 15px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .rp-10000 {
+  margin: 0 4px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-13 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .frame-21 {
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  padding: 313px 16px 40px 16px;
+  width: 300px;
+  box-sizing: border-box;
+}
+.dashboard-user .frame-23 {
+  margin: 0 52px 77px 52px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .apa-kata-pelanggan {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 33px;
+  color: #000000;
+}
+.dashboard-user .frame-25 {
+  margin: 0 63px 48px 63px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-8 {
+  margin-right: 55px;
+  width: 95px;
+  height: 95px;
+}
+.dashboard-user .user-1 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.dashboard-user .saya-sangat-senang-dengan-pembelian-saya-souvenirnya-indah-dan-berkualitas-tinggi-pasti-akan-membeli-lagi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-9 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .container-5 {
+  margin: 0 52px 43px 52px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-10 {
+  margin-right: 55px;
+  width: 95px;
+  height: 95px;
+}
+.dashboard-user .user-3 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.dashboard-user .souvenir-yang-saya-terima-benar-benar-unik-dan-berkualitas-proses-belanja-sangat-mudah-dan-pengiriman-cepat-terima-kasih {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-7 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .container-14 {
+  margin: 0 52px 43px 52px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-9 {
+  margin-right: 55px;
+  width: 95px;
+  height: 95px;
+}
+.dashboard-user .user-2 {
+  margin-bottom: 17px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 25px;
+  color: #000000;
+}
+.dashboard-user .saya-sangat-senang-bisa-mendukung-pengrajin-lokal-melalui-pembelian-saya-souvenirnya-benar-benar-mencerminkan-keahlian-tangan-dan-tradisi-budaya {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 19px;
+  color: #000000;
+}
+.dashboard-user .container-17 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .container-11 {
+  margin: 0 52px 251px 52px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .group-9 {
+  position: absolute;
+  top: 276px;
+  right: 503.1px;
+  width: 28.9px;
+  height: 21px;
+}
+.dashboard-user .cendraloka-1 {
+  margin: 27px 18.5px 89px 0;
+  display: inline-block;
+  width: 115px;
+  overflow-wrap: break-word;
+  font-family: 'Rakkas';
+  font-weight: 400;
+  font-size: 25px;
+  color: #F7F7F7;
+}
+.dashboard-user .tentang-kami {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #F7F7F7;
+}
+.dashboard-user .hubungi-kami {
+  margin-bottom: 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #F7F7F7;
+}
+.dashboard-user .kebijakan-privasi {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #F7F7F7;
+}
+.dashboard-user .syarat-dan-ketentuan {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #F7F7F7;
+}
+.dashboard-user .bantuan-faq {
+  margin: 0 2px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #F7F7F7;
+}
+.dashboard-user .frame-22 {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .ikuti-kami-di-media-sosial {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.dashboard-user .vector-1 {
+  margin-right: 11px;
+  width: 21px;
+  height: 19px;
+}
+.dashboard-user .facebook {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.dashboard-user .container-10 {
+  margin: 0 4px 10px 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-2 {
+  margin: 0 11px 3px 0;
+  width: 21px;
+  height: 16px;
+}
+.dashboard-user .you-tube {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.dashboard-user .container-6 {
+  margin: 0 4px 9px 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-3 {
+  margin: 0 12px 2px 0;
+  width: 19px;
+  height: 18px;
+}
+.dashboard-user .tik-tok {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.dashboard-user .container-12 {
+  margin: 0 5px 10px 5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .vector-6 {
+  margin-right: 12px;
+  width: 19px;
+  height: 19px;
+}
+.dashboard-user .instagram-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.dashboard-user .container-16 {
+  margin: 0 5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .container-3 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dashboard-user .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 911.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-user .instagram {
+  position: absolute;
+  right: 387.7px;
+  bottom: -51px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.dashboard-user .frame-17 {
+  background: #211F1F;
+  position: relative;
+  padding: 39px 98px 54px 98px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.dashboard-user {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}
